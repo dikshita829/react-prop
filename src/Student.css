@@ -1,0 +1,10 @@
+.container{
+    height: 150px;
+    width: 350px;
+    box-sizing: border-box;
+    border: black solid 2px;
+    background-color: tomato;
+    margin: 10px;
+    box-shadow: black;
+    border-radius: 5px;
+}
